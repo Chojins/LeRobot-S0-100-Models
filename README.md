@@ -6,3 +6,16 @@
 # Magnets
 Each piece and square of the board is fitted with a magnet. I bought 2 packs of 60 magnets (5.04mm diameter 1.6mm high) from amazon https://www.amazon.com.au/gp/product/B0CM3KX5BC
 These are then just press fit into the printed parts - make sure they are around the right way.
+
+# Gripper Assembly
+Assemble the new centre closing gripper using the screws provided with the servos. The assembly goes together as shown below:
+![Alt text](images/gripper_explosion.png)
+| Number     | Part Name               |
+|------------|-------------------------|
+| (not shown)| gripper body            |
+| 9          | gripper body with camera|
+| 4          | idler wheel printed     |
+| 1          | mirror mount left       |
+| 1          | mirror mount right      |
+| 6          | moving jaw 1            |
+| 7          | moving jaw 2            |
