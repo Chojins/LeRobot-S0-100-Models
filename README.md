@@ -13,9 +13,11 @@ Assemble the new centre closing gripper using the screws provided with the servo
 | Number     | Part Name               |
 |------------|-------------------------|
 | (not shown)| gripper body            |
-| 9          | gripper body with camera|
-| 4          | idler wheel printed     |
 | 1          | mirror mount left       |
 | 1          | mirror mount right      |
+| 4          | idler wheel printed     |
+| 5          | idler wheel (from servo)|
 | 6          | moving jaw 1            |
 | 7          | moving jaw 2            |
+| 9          | gripper body with camera|
+| 10         | camera (as above)       |
