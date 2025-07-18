@@ -21,3 +21,6 @@ Assemble the new centre closing gripper using the screws provided with the servo
 | 7          | moving jaw 2            |
 | 9          | gripper body with camera|
 | 10         | camera (as above)       |
+
+# Mirrors
+I used self adhesive plastic mirror "Jindizi 4 Pcs Flexible Mirror Sheets, 15 * 25cm Self-Adhesive Non-Glass Mirror Stickers" from Amazon
